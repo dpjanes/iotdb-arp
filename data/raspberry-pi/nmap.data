@@ -1,0 +1,57 @@
+
+Starting Nmap 6.00 ( http://nmap.org ) at 2015-04-26 19:41 UTC
+Nmap scan report for vlan1.phub.net.cable.rogers.com (192.168.0.1)
+Host is up (0.0015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+MAC Address: 68:B6:FC:F6:07:A2 (Unknown)
+
+Nmap scan report for 192.168.0.10
+Host is up (0.00046s latency).
+PORT    STATE    SERVICE
+80/tcp  filtered http
+443/tcp filtered https
+MAC Address: 04:A1:51:86:DB:1B (Unknown)
+
+Nmap scan report for 192.168.0.12
+Host is up (0.00043s latency).
+PORT    STATE    SERVICE
+80/tcp  filtered http
+443/tcp filtered https
+MAC Address: D0:52:A8:00:35:FA (Unknown)
+
+Nmap scan report for 192.168.0.14
+Host is up (0.0023s latency).
+PORT    STATE  SERVICE
+80/tcp  closed http
+443/tcp closed https
+MAC Address: 58:55:CA:18:2E:C5 (Apple)
+
+Nmap scan report for 192.168.0.15
+Host is up (0.00044s latency).
+PORT    STATE  SERVICE
+80/tcp  open   http
+443/tcp closed https
+MAC Address: 00:17:88:09:E0:B4 (Philips Lighting BV)
+
+Nmap scan report for 192.168.0.16
+Host is up (0.00055s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+MAC Address: 00:05:CD:49:71:79 (Denon)
+
+Nmap scan report for 192.168.0.17
+Host is up (0.00052s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+MAC Address: 00:D0:B8:13:77:78 (Iomega)
+
+Nmap scan report for 192.168.0.18
+Host is up (0.00064s latency).
+PORT    STATE  SERVICE
+80/tcp  closed http
+443/tcp open   https
+MAC Address: D4:A9:28:01:47:D4 (GreenWave Reality)

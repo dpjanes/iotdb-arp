@@ -1,0 +1,3 @@
+Command:
+
+    $ ifconfig -a
