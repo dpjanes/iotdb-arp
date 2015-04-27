@@ -19,12 +19,17 @@ and leadings "0" if needed.
     {
         verbose: true,
         poll: 180,
-        max: 256,
+        max_connections: 256,
+        max_hosts: 1024,
+        restrict: false,
     }
 
 * verbose: print lots of stuff
 * poll: re-run after this many seconds (default: 0 - run once)
-* max: poll this many hosts at once (default: 64)
+* max\_connects: poll this many hosts at once (default: 64)
+* max\_hosts: the maximum number of IP addresses to check per subnet
+* restrict: only scan subnets that include this IP. Set to "false" if you
+  don't want restrictions, otherwise it will only scan the first interface
 
 ## Code
 

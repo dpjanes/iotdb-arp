@@ -1,6 +1,6 @@
 browser = require('../index');
 browser.browser({
-    test: true,
+    verbose: true,
     poll: 0
 }, function(error, d) {
     if (error) {
