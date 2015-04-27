@@ -1,0 +1,22 @@
+{
+    "author": "David P. Janes <davidjanes@iotdb.org> (https://iotdb.org)", 
+    "bugs": {
+        "url": "https://github.com/dpjanes/iotdb-arp/issues"
+    }, 
+    "dependencies": {
+        "ip": "~0.3.2"
+    }, 
+    "description": "Scan the network for MAC addresses by any means available", 
+    "homepage": "https://homestar.io", 
+    "homestar": {}, 
+    "license": "Apache-2.0", 
+    "main": "index.js", 
+    "name": "iotdb-arp", 
+    "private": false, 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/dpjanes/iotdb-arp"
+    }, 
+    "scripts": {}, 
+    "version": "0.0.0"
+}
