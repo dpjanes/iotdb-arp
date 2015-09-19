@@ -4,7 +4,7 @@
         "url": "https://github.com/dpjanes/iotdb-arp/issues"
     }, 
     "dependencies": {
-        "ip": "~0.3.2"
+        "ip": "~1.0.1"
     }, 
     "description": "Scan the network for MAC addresses by any means available", 
     "homepage": "https://homestar.io", 
@@ -18,5 +18,5 @@
         "url": "https://github.com/dpjanes/iotdb-arp"
     }, 
     "scripts": {}, 
-    "version": "0.0.4"
+    "version": "0.0.5"
 }
