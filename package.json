@@ -7,7 +7,7 @@
         "ip": "~1.1.0"
     }, 
     "description": "Scan the network for MAC addresses by any means available", 
-    "homepage": "https://homestar.io", 
+    "homepage": "https://github.com/dpjanes/node-iotdb",
     "homestar": {}, 
     "license": "Apache-2.0", 
     "main": "index.js", 
